@@ -1,2 +1,4 @@
-# awesome-powerline
-Curated list of awesome Powerline segments
+# Awesome Powerline
+
+Curated list of awesome [Powerline](https://github.com/powerline/powerline) segments
+
