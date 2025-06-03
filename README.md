@@ -25,6 +25,7 @@ Curated list of awesome [Powerline](https://github.com/powerline/powerline) awes
 * [powerkube](https://github.com/d2iq-shadowbq/powerkube-fork): A Powerline segment to show Kubernetes context current cluster, namespace, user.
 * [powerline-aws](https://github.com/sireliah/powerline-aws): A Powerline segment to show current AWS account and role
 * [powerline-cpu-temp](https://github.com/DCsunset/powerline-cpu-temp): A Powerline segment for showing CPU temperature
+* [powerline-diskspace](https://github.com/AndreiBarsan/powerline-diskspace): A Powerline segment for showing disk utilization (e.g., drives which are 80% full)
 * [powerline-docker](https://github.com/adrianmo/powerline-docker): A Powerline segment for showing the status of your Docker containers
 * [powerline-exitstatus](https://github.com/shimtom/powerline-exitstatus): A Powerline segment for showing exit status
 * [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus): A Powerline segment for showing the status of a Git working copy
